@@ -183,7 +183,8 @@ sudo ruby pentbox.rb
 
 PentBox is configured and the HTTP honeypot goes live:
 
-![Honeypot Activated](screenshots/honeypot_activated_port80.jpg)
+![Honeypot Activated](<img width="697" height="91" alt="honeypot_activated_port80 jpg" src="https://github.com/user-attachments/assets/70c6519b-7448-45ec-b763-8c726c68140d" />
+)
 
 ```
 HONEYPOT ACTIVATED ON PORT 80 (2024-08-09 22:26:19 +0500)
